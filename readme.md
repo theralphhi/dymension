@@ -1,4 +1,4 @@
-# Dymension Hub
+## Dymension Hub
 
 ![image](./docs/dymension.png)
 
